@@ -1,0 +1,9 @@
+C:\Users\aakas\Desktop\bowling-ball\BowlingBall\bin\Debug\BowlingBall.dll
+C:\Users\aakas\Desktop\bowling-ball\BowlingBall\bin\Debug\BowlingBall.pdb
+C:\Users\aakas\Desktop\bowling-ball\BowlingBall\bin\Debug\BowlingBall.Models.dll
+C:\Users\aakas\Desktop\bowling-ball\BowlingBall\bin\Debug\BowlingBall.Models.pdb
+C:\Users\aakas\Desktop\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.AssemblyReference.cache
+C:\Users\aakas\Desktop\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.CoreCompileInputs.cache
+C:\Users\aakas\Desktop\bowling-ball\BowlingBall\obj\Debug\BowlingBall.csproj.CopyComplete
+C:\Users\aakas\Desktop\bowling-ball\BowlingBall\obj\Debug\BowlingBall.dll
+C:\Users\aakas\Desktop\bowling-ball\BowlingBall\obj\Debug\BowlingBall.pdb
